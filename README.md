@@ -31,7 +31,7 @@ These samples are generated from `sklearn.datasets` API of `scikit-learn` packag
 ![classfication](http://hzs.idv.tw/~zackcheng/github/tf_neural_network/classfication.png)
 
 ### Gaussian quantiles
-![gaussioan_quantiles](http://hzs.idv.tw/~zackcheng/github/tf_neural_network/gaussian_quantiles.png.png)
+![gaussioan_quantiles](http://hzs.idv.tw/~zackcheng/github/tf_neural_network/gaussian_quantiles.png)
 
 ## Contact
 
